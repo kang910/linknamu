@@ -9,15 +9,7 @@
   --foreground: #3b2f2a;
   --bg-from: #fffaf2;
   --bg-to: #ffd9c2;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #1d1714;
-    --foreground: #f6ebe3;
-    --bg-from: #251c18;
-    --bg-to: #3a2620;
-  }
+  color-scheme: light;
 }
 
 body {
